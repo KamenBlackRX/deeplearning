@@ -1,0 +1,19 @@
+# Dev/Deployment
+pyCli
+
+
+# Dependencies
+tensorflow
+tensorflow-gpu
+pymongo
+Flask
+flask-restful
+opencv-python
+numpy
+jsonify
+six
+sphinx
+sphinx_rtd_theme
+Pillow
+
+#END OF FILE
